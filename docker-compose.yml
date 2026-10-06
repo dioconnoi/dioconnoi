@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: visa_checker
+      POSTGRES_PASSWORD: visa_checker
+      POSTGRES_DB: visa_checker_dev
+    ports:
+      - "5432:5432"
+    volumes:
+      - visa_checker_pgdata:/var/lib/postgresql/data
+
+volumes:
+  visa_checker_pgdata:

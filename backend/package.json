@@ -1,0 +1,46 @@
+{
+  "name": "visa-sponsorship-checker-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Backend API for the UK Skilled Worker visa sponsorship checker Chrome extension",
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "tsx watch src/index.ts",
+    "start": "node dist/index.js",
+    "migrate": "node-pg-migrate -m src/db/migrations -j ts --tsx --tsconfig tsconfig.json",
+    "migrate:up": "node-pg-migrate up -m src/db/migrations -j ts --tsx --tsconfig tsconfig.json",
+    "migrate:down": "node-pg-migrate down -m src/db/migrations -j ts --tsx --tsconfig tsconfig.json",
+    "seed:config": "tsx src/db/seed/seedAppConfig.ts",
+    "refresh:sponsors": "tsx scripts/refresh-sponsors.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "eslint src test scripts --ext .ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "csv-parse": "^5.5.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fuse.js": "^7.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.12.0",
+    "stripe": "^16.8.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/node": "^20.14.9",
+    "@types/pg": "^8.11.6",
+    "@types/supertest": "^6.0.2",
+    "node-pg-migrate": "^7.6.1",
+    "supertest": "^7.0.0",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3",
+    "vitest": "^2.0.5"
+  }
+}

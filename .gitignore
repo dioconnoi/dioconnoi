@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+*.log
+.env
+.env.local
+coverage/
+.DS_Store
+extension/dist/
+backend/dist/
+*.tsbuildinfo
+e2e/e2e-result.png

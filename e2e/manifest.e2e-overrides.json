@@ -1,0 +1,4 @@
+{
+  "_comment": "Merged over the real manifest.json by run-e2e.mjs for this automated check ONLY — never shipped. host_permissions is added here because Chrome's activeTab grant is tied to a real docked side-panel's gesture context, which Playwright can't replicate by opening the side panel as an independent page; scoping it to just the fixture server keeps the test from silently depending on broader access than the real extension ships with.",
+  "host_permissions": ["http://localhost:4455/*"]
+}

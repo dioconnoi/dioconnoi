@@ -1,0 +1,3135 @@
+{
+  "version": "2025-07-22",
+  "sourceDate": "2025-07-22",
+  "sourceDoc": "Skilled Worker visa: going rates for eligible occupation codes (gov.uk, Home Office guidance, 'Updated 22 July 2025')",
+  "sourceUrl": "https://www.gov.uk/government/publications/skilled-worker-visa-going-rates-for-eligible-occupations/skilled-worker-visa-going-rates-for-eligible-occupation-codes",
+  "disclaimer": "Transcribed from the gov.uk publication above (60 pages) as of the sourceDate via automated page-by-page transcription. Standard going rate only — 'lower rate' figures for the pre-4-April-2024/Health-and-Care cohort are not covered by this source document. Verify against the live gov.uk page before relying on this for a real visa application — this is not legal advice.",
+  "occupations": [
+    {
+      "code": "1111",
+      "jobType": "Chief executives and senior officials",
+      "relatedJobTitles": [
+        "Chairpersons",
+        "Chief executives",
+        "Diplomats and foreign office officials",
+        "Senior public service officials",
+        "Chief executives and senior officials not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 88100,
+      "standardGoingRateHourly": 45.18
+    },
+    {
+      "code": "1121",
+      "jobType": "Production managers and directors in manufacturing",
+      "relatedJobTitles": [
+        "Production managers and directors in manufacturing"
+      ],
+      "standardGoingRateAnnual": 55000,
+      "standardGoingRateHourly": 28.21
+    },
+    {
+      "code": "1122",
+      "jobType": "Production managers and directors in construction",
+      "relatedJobTitles": [
+        "Production managers and directors in construction"
+      ],
+      "standardGoingRateAnnual": 53400,
+      "standardGoingRateHourly": 27.38
+    },
+    {
+      "code": "1123",
+      "jobType": "Production managers and directors in mining and energy",
+      "relatedJobTitles": [
+        "Managers and directors in the extraction of fossil fuels",
+        "Managers and directors in the production of energy",
+        "Production managers and directors in mining and energy not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 54000,
+      "standardGoingRateHourly": 27.69
+    },
+    {
+      "code": "1131",
+      "jobType": "Financial managers and directors",
+      "relatedJobTitles": [
+        "Bank, building society and post office managers",
+        "Company secretaries and finance managers and directors",
+        "Investment bankers and directors",
+        "Financial managers and directors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 75100,
+      "standardGoingRateHourly": 38.51
+    },
+    {
+      "code": "1132",
+      "jobType": "Marketing, sales and advertising directors",
+      "relatedJobTitles": [
+        "Advertising and marketing directors",
+        "Sales directors",
+        "Marketing, sales and advertising directors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 87300,
+      "standardGoingRateHourly": 44.77
+    },
+    {
+      "code": "1133",
+      "jobType": "Public relations and communications directors",
+      "relatedJobTitles": [
+        "Public relations and communications directors"
+      ],
+      "standardGoingRateAnnual": 77200,
+      "standardGoingRateHourly": 39.59
+    },
+    {
+      "code": "1134",
+      "jobType": "Purchasing managers and directors",
+      "relatedJobTitles": [
+        "Estimating managers and directors",
+        "Procurement and purchasing managers and directors",
+        "Purchasing managers and directors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 54700,
+      "standardGoingRateHourly": 28.05
+    },
+    {
+      "code": "1135",
+      "jobType": "Charitable organisation managers and directors",
+      "relatedJobTitles": [
+        "Charitable organisation managers and directors"
+      ],
+      "standardGoingRateAnnual": 44300,
+      "standardGoingRateHourly": 22.72
+    },
+    {
+      "code": "1136",
+      "jobType": "Human resource managers and directors",
+      "relatedJobTitles": [
+        "Employee relations managers",
+        "Equality, diversity and inclusion managers",
+        "Learning and development managers and directors",
+        "Recruitment managers and directors",
+        "Human resources managers and directors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 52900,
+      "standardGoingRateHourly": 27.13
+    },
+    {
+      "code": "1137",
+      "jobType": "Information technology directors",
+      "relatedJobTitles": [
+        "Information security directors",
+        "Information technology operations directors",
+        "Information technology programme managers and directors",
+        "Information technology technical directors",
+        "Information technology directors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 86000,
+      "standardGoingRateHourly": 44.1
+    },
+    {
+      "code": "1139",
+      "jobType": "Functional managers and directors not elsewhere classified",
+      "relatedJobTitles": [
+        "Accounts directors",
+        "Administration directors",
+        "Complaints and customer service directors",
+        "Events directors",
+        "Intellectual property managers and directors",
+        "Municipal clerks",
+        "Research and development (R&D) directors",
+        "Functional managers and directors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 74700,
+      "standardGoingRateHourly": 38.31
+    },
+    {
+      "code": "1140",
+      "jobType": "Directors in logistics, warehousing and transport",
+      "relatedJobTitles": [
+        "Supply chain directors",
+        "Directors in logistics, warehousing and transport not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 81400,
+      "standardGoingRateHourly": 41.74
+    },
+    {
+      "code": "1150",
+      "jobType": "Managers and directors in retail and wholesale",
+      "relatedJobTitles": [
+        "Managers and directors in retail and wholesale"
+      ],
+      "standardGoingRateAnnual": 36400,
+      "standardGoingRateHourly": 18.67
+    },
+    {
+      "code": "1162",
+      "jobType": "Senior police officers",
+      "relatedJobTitles": [
+        "Chief, deputy chief and assistant chief constables",
+        "Chief inspectors",
+        "Chief superintendents",
+        "Senior police officers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 64000,
+      "standardGoingRateHourly": 32.82
+    },
+    {
+      "code": "1163",
+      "jobType": "Senior officers in fire, ambulance, prison and related services",
+      "relatedJobTitles": [
+        "Senior officers in ambulance services",
+        "Senior officers in fire services",
+        "Senior officers in immigration services",
+        "Senior officers in prison services",
+        "Senior officers in revenue and customs"
+      ],
+      "standardGoingRateAnnual": 61600,
+      "standardGoingRateHourly": 31.59
+    },
+    {
+      "code": "1171",
+      "jobType": "Health services and public health managers and directors",
+      "relatedJobTitles": [
+        "Clinical governance and information managers",
+        "Healthcare service managers and directors",
+        "Health services and public health managers and directors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 50300,
+      "standardGoingRateHourly": 25.79
+    },
+    {
+      "code": "1172",
+      "jobType": "Social services managers and directors",
+      "relatedJobTitles": [
+        "Social services managers and directors"
+      ],
+      "standardGoingRateAnnual": 43000,
+      "standardGoingRateHourly": 22.05
+    },
+    {
+      "code": "1211",
+      "jobType": "Managers and proprietors in agriculture and horticulture",
+      "relatedJobTitles": [
+        "Managers and proprietors in agriculture and horticulture"
+      ],
+      "standardGoingRateAnnual": 35900,
+      "standardGoingRateHourly": 18.41
+    },
+    {
+      "code": "1212",
+      "jobType": "Managers and proprietors in forestry, fishing and related services",
+      "relatedJobTitles": [
+        "Cattery and kennel managers and proprietors",
+        "Fisheries managers and proprietors",
+        "Forestry managers",
+        "Livery yard and stud farm managers and proprietors",
+        "Racehorse trainers",
+        "Managers and proprietors in forestry, fishing and related services not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "1221",
+      "jobType": "Hotel and accommodation managers and proprietors",
+      "relatedJobTitles": [
+        "Hotel and accommodation managers and proprietors"
+      ],
+      "standardGoingRateAnnual": 38300,
+      "standardGoingRateHourly": 19.64
+    },
+    {
+      "code": "1222",
+      "jobType": "Restaurant and catering establishment managers and proprietors",
+      "relatedJobTitles": [
+        "Café and restaurant managers and proprietors",
+        "Catering operations managers",
+        "Takeaway managers and proprietors",
+        "Restaurant and catering establishment managers and proprietors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "1223",
+      "jobType": "Publicans and managers of licensed premises",
+      "relatedJobTitles": [
+        "Publicans and managers of licensed premises"
+      ],
+      "standardGoingRateAnnual": 36300,
+      "standardGoingRateHourly": 18.62
+    },
+    {
+      "code": "1224",
+      "jobType": "Leisure and sports managers and proprietors",
+      "relatedJobTitles": [
+        "Cinema managers and proprietors",
+        "Golf course managers",
+        "Gym, fitness and leisure services managers and proprietors",
+        "Marina managers",
+        "Museum managers and proprietors",
+        "Parks and gardens managers",
+        "Theatre managers (excludes hospital service)",
+        "Leisure and sports managers and proprietors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 34100,
+      "standardGoingRateHourly": 17.49
+    },
+    {
+      "code": "1225",
+      "jobType": "Travel agency managers and proprietors",
+      "relatedJobTitles": [
+        "Travel agency managers and proprietors"
+      ],
+      "standardGoingRateAnnual": 36000,
+      "standardGoingRateHourly": 18.46
+    },
+    {
+      "code": "1231",
+      "jobType": "Health care practice managers",
+      "relatedJobTitles": [
+        "Dental practice managers",
+        "Medical practice managers",
+        "Opticians managers",
+        "Veterinary practice managers",
+        "Health care practice managers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 40400,
+      "standardGoingRateHourly": 20.72
+    },
+    {
+      "code": "1232",
+      "jobType": "Residential, day and domiciliary care managers and proprietors",
+      "relatedJobTitles": [
+        "Day care managers",
+        "Home care managers",
+        "Residential care managers and proprietors",
+        "Residential, day and domiciliary care managers and proprietors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 40400,
+      "standardGoingRateHourly": 20.72
+    },
+    {
+      "code": "1233",
+      "jobType": "Early education and childcare services proprietors",
+      "relatedJobTitles": [
+        "Early education and childcare services proprietors"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "1241",
+      "jobType": "Managers in transport and distribution",
+      "relatedJobTitles": [
+        "Airport managers",
+        "Depot and fleet managers",
+        "Dispatch and distribution managers",
+        "Harbour and port managers",
+        "Road traffic managers",
+        "Managers in transport and distribution not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 44900,
+      "standardGoingRateHourly": 23.03
+    },
+    {
+      "code": "1242",
+      "jobType": "Managers in storage and warehousing",
+      "relatedJobTitles": [
+        "Managers in storage and warehousing"
+      ],
+      "standardGoingRateAnnual": 35100,
+      "standardGoingRateHourly": 18.0
+    },
+    {
+      "code": "1243",
+      "jobType": "Managers in logistics",
+      "relatedJobTitles": [
+        "Managers in logistics"
+      ],
+      "standardGoingRateAnnual": 44900,
+      "standardGoingRateHourly": 23.03
+    },
+    {
+      "code": "1251",
+      "jobType": "Property, housing and estate managers",
+      "relatedJobTitles": [
+        "Facilities managers",
+        "Landlords, property and housing managers",
+        "Property investors and developers",
+        "Sales and lettings managers",
+        "Shopping centre managers",
+        "Property, housing and estate managers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 42600,
+      "standardGoingRateHourly": 21.85
+    },
+    {
+      "code": "1252",
+      "jobType": "Garage managers and proprietors",
+      "relatedJobTitles": [
+        "Garage managers and proprietors"
+      ],
+      "standardGoingRateAnnual": 45600,
+      "standardGoingRateHourly": 23.38
+    },
+    {
+      "code": "1253",
+      "jobType": "Hairdressing and beauty salon managers and proprietors",
+      "relatedJobTitles": [
+        "Beauty salon managers and proprietors",
+        "Hairdressing managers and proprietors",
+        "Hairdressing and beauty salon managers and proprietors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "1254",
+      "jobType": "Waste disposal and environmental services managers",
+      "relatedJobTitles": [
+        "Landfill site managers",
+        "Recycling managers",
+        "Scrap yard managers",
+        "Sewage works and water treatment managers",
+        "Waste disposal and environmental services managers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 48300,
+      "standardGoingRateHourly": 24.77
+    },
+    {
+      "code": "1255",
+      "jobType": "Managers and directors in the creative industries",
+      "relatedJobTitles": [
+        "Art gallery managers and directors",
+        "Film and television production managers",
+        "Publishing managers and directors",
+        "Radio production managers",
+        "Sport and talent agents",
+        "Theatre production managers",
+        "Managers and directors in the creative industries not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 44900,
+      "standardGoingRateHourly": 23.03
+    },
+    {
+      "code": "1256",
+      "jobType": "Betting shop and gambling establishment managers",
+      "relatedJobTitles": [
+        "Betting shop managers",
+        "Bingo hall managers",
+        "Casino managers",
+        "Betting shop and gambling establishment managers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "1257",
+      "jobType": "Hire services managers and proprietors",
+      "relatedJobTitles": [
+        "Hire services managers and proprietors"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "1258",
+      "jobType": "Directors in consultancy services",
+      "relatedJobTitles": [
+        "Design consultancy directors",
+        "Environmental consultancy directors",
+        "Management consultancy directors",
+        "Surveying consultancy directors",
+        "Directors in consultancy services not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 70100,
+      "standardGoingRateHourly": 35.95
+    },
+    {
+      "code": "1259",
+      "jobType": "Managers and proprietors in other services not elsewhere classified",
+      "relatedJobTitles": [
+        "Cleaning and hygiene services managers and proprietors",
+        "Educational establishment managers and proprietors",
+        "Funeral services and crematorium managers and proprietors",
+        "Library managers",
+        "Recruitment agency managers and proprietors",
+        "Security services managers and proprietors",
+        "Managers and proprietors in other services not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 41400,
+      "standardGoingRateHourly": 21.23
+    },
+    {
+      "code": "2111",
+      "jobType": "Chemical scientists",
+      "relatedJobTitles": [
+        "Analytical chemists",
+        "Industrial chemists",
+        "Nuclear and radiochemists",
+        "Research and development chemists",
+        "Chemical scientists not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 39900,
+      "standardGoingRateHourly": 20.46
+    },
+    {
+      "code": "2112",
+      "jobType": "Biological scientists",
+      "relatedJobTitles": [
+        "Agricultural scientists",
+        "Biologists",
+        "Botanical and horticultural scientists",
+        "Microbiologists and bacteriologists",
+        "Pathologists",
+        "Pharmacologists",
+        "Zoological scientists",
+        "Biological scientists not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 40300,
+      "standardGoingRateHourly": 20.67
+    },
+    {
+      "code": "2113",
+      "jobType": "Biochemists and biomedical scientists",
+      "relatedJobTitles": [
+        "Biochemists",
+        "Biomedical scientists",
+        "Biotechnologists",
+        "Clinical scientists",
+        "Biochemists and biomedical scientists not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 45900,
+      "standardGoingRateHourly": 23.54
+    },
+    {
+      "code": "2114",
+      "jobType": "Physical scientists",
+      "relatedJobTitles": [
+        "Geologists",
+        "Geophysicists",
+        "Hydrogeologists and hydrologists",
+        "Meteorologists",
+        "Physical scientists not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 54600,
+      "standardGoingRateHourly": 28.0
+    },
+    {
+      "code": "2115",
+      "jobType": "Social and humanities scientists",
+      "relatedJobTitles": [
+        "Anthropologists",
+        "Archaeologists",
+        "Behavioural scientists",
+        "Epidemiologists",
+        "Genealogists",
+        "Geographic information systems (GIS) analysts",
+        "Historians",
+        "Political scientists",
+        "Public health analysts",
+        "Social and humanities scientists not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 40400,
+      "standardGoingRateHourly": 20.72
+    },
+    {
+      "code": "2119",
+      "jobType": "Natural and social science professionals not elsewhere classified",
+      "relatedJobTitles": [
+        "Sports scientists",
+        "Natural and social science professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 41500,
+      "standardGoingRateHourly": 21.28
+    },
+    {
+      "code": "2121",
+      "jobType": "Civil engineers",
+      "relatedJobTitles": [
+        "Building and building services engineers",
+        "Geotechnical engineers",
+        "Mining engineers",
+        "Structural engineers",
+        "Transportation engineers",
+        "Water engineers (professional)",
+        "Civil engineers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 50400,
+      "standardGoingRateHourly": 25.85
+    },
+    {
+      "code": "2122",
+      "jobType": "Mechanical engineers",
+      "relatedJobTitles": [
+        "Automotive engineers (professional)",
+        "Marine engineers and naval architects",
+        "Mechanical design engineers",
+        "Mechanical engineers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 46800,
+      "standardGoingRateHourly": 24.0
+    },
+    {
+      "code": "2123",
+      "jobType": "Electrical engineers",
+      "relatedJobTitles": [
+        "Laser engineers",
+        "Power systems engineers",
+        "Railway signalling engineers",
+        "Electrical engineers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 58700,
+      "standardGoingRateHourly": 30.1
+    },
+    {
+      "code": "2124",
+      "jobType": "Electronics engineers",
+      "relatedJobTitles": [
+        "Broadcast engineers (professional)",
+        "Telecommunications engineers (professional)",
+        "Electronics engineers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 52000,
+      "standardGoingRateHourly": 26.67
+    },
+    {
+      "code": "2125",
+      "jobType": "Production and process engineers",
+      "relatedJobTitles": [
+        "Chemical engineers",
+        "Control and instrumentation engineers",
+        "Industrial and production engineers",
+        "Production and process engineers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 45000,
+      "standardGoingRateHourly": 23.08
+    },
+    {
+      "code": "2126",
+      "jobType": "Aerospace engineers",
+      "relatedJobTitles": [
+        "Aeronautical engineers (professional)",
+        "Aircraft engineers (professional)",
+        "Avionics engineers",
+        "Aerospace engineers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 52400,
+      "standardGoingRateHourly": 26.87
+    },
+    {
+      "code": "2127",
+      "jobType": "Engineering project managers and project engineers",
+      "relatedJobTitles": [
+        "Engineering project managers and project engineers"
+      ],
+      "standardGoingRateAnnual": 51900,
+      "standardGoingRateHourly": 26.62
+    },
+    {
+      "code": "2129",
+      "jobType": "Engineering professionals not elsewhere classified",
+      "relatedJobTitles": [
+        "Acoustic engineers",
+        "Biomedical engineers",
+        "Brewers (qualified)",
+        "Clinical Engineers",
+        "Energy engineers",
+        "Food technologists",
+        "Gas engineers (professional)",
+        "Heating and ventilating engineers (professional)",
+        "Materials engineers",
+        "Mechatronic engineers",
+        "Nuclear engineers",
+        "Patent engineers",
+        "Robotics engineers",
+        "Traffic engineers",
+        "Engineering professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 46100,
+      "standardGoingRateHourly": 23.64
+    },
+    {
+      "code": "2131",
+      "jobType": "IT project managers",
+      "relatedJobTitles": [
+        "IT project managers"
+      ],
+      "standardGoingRateAnnual": 58200,
+      "standardGoingRateHourly": 29.85
+    },
+    {
+      "code": "2132",
+      "jobType": "IT managers",
+      "relatedJobTitles": [
+        "IT information managers",
+        "IT product managers",
+        "IT service delivery managers",
+        "IT systems managers",
+        "IT test managers",
+        "Network managers",
+        "Software development managers",
+        "Technical support managers",
+        "IT managers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 55000,
+      "standardGoingRateHourly": 28.21
+    },
+    {
+      "code": "2133",
+      "jobType": "IT business analysts, architects and systems designers",
+      "relatedJobTitles": [
+        "Computer analysts and scientists",
+        "Data architects",
+        "Data engineers",
+        "IT systems architects",
+        "IT business analysts",
+        "IT solutions architects and designers",
+        "IT business analysts, architects and systems designers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 54900,
+      "standardGoingRateHourly": 28.15
+    },
+    {
+      "code": "2134",
+      "jobType": "Programmers and software development professionals",
+      "relatedJobTitles": [
+        "Computer games designers",
+        "Computer programmers",
+        "Software developers",
+        "Programmers and software development professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 54700,
+      "standardGoingRateHourly": 28.05
+    },
+    {
+      "code": "2135",
+      "jobType": "Cyber security professionals",
+      "relatedJobTitles": [
+        "Cyber operational defence specialists",
+        "Cyber security management and governance specialists",
+        "Forensic computer specialists",
+        "Secure system development specialists",
+        "Cyber security professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 48500,
+      "standardGoingRateHourly": 24.87
+    },
+    {
+      "code": "2136",
+      "jobType": "IT quality and testing professionals",
+      "relatedJobTitles": [
+        "IT quality and testing professionals"
+      ],
+      "standardGoingRateAnnual": 41200,
+      "standardGoingRateHourly": 21.13
+    },
+    {
+      "code": "2137",
+      "jobType": "IT network professionals",
+      "relatedJobTitles": [
+        "IT network professionals"
+      ],
+      "standardGoingRateAnnual": 45600,
+      "standardGoingRateHourly": 23.38
+    },
+    {
+      "code": "2139",
+      "jobType": "Information technology professionals not elsewhere classified",
+      "relatedJobTitles": [
+        "DevOps engineers",
+        "IT consultants",
+        "Webmasters and website managers",
+        "Information technology professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 52300,
+      "standardGoingRateHourly": 26.82
+    },
+    {
+      "code": "2141",
+      "jobType": "Web design professionals",
+      "relatedJobTitles": [
+        "Application designers",
+        "UI and UX designers and researchers",
+        "Web designers",
+        "Web design professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 43800,
+      "standardGoingRateHourly": 22.46
+    },
+    {
+      "code": "2142",
+      "jobType": "Graphic and multimedia designers",
+      "relatedJobTitles": [
+        "Multimedia animators",
+        "Graphic and multimedia designers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "2151",
+      "jobType": "Conservation professionals",
+      "relatedJobTitles": [
+        "Conservationists",
+        "Ecologists",
+        "Heritage officers",
+        "Conservation professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 36000,
+      "standardGoingRateHourly": 18.46
+    },
+    {
+      "code": "2152",
+      "jobType": "Environment professionals",
+      "relatedJobTitles": [
+        "Energy managers",
+        "Environmental and geo-environmental engineers",
+        "Environmental consultants",
+        "Environmental scientists",
+        "Sustainability officers",
+        "Environmental professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 37200,
+      "standardGoingRateHourly": 19.08
+    },
+    {
+      "code": "2161",
+      "jobType": "Research and development (r&d) managers",
+      "relatedJobTitles": [
+        "Laboratory managers",
+        "Research and development (R&D) design managers",
+        "Research and development (R&D) managers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 54400,
+      "standardGoingRateHourly": 27.9
+    },
+    {
+      "code": "2162",
+      "jobType": "Other researchers, unspecified discipline",
+      "relatedJobTitles": [
+        "Other researchers, unspecified discipline"
+      ],
+      "standardGoingRateAnnual": 43600,
+      "standardGoingRateHourly": 22.36
+    },
+    {
+      "code": "2240",
+      "jobType": "Veterinarians",
+      "relatedJobTitles": [
+        "Veterinarians"
+      ],
+      "standardGoingRateAnnual": 49500,
+      "standardGoingRateHourly": 25.38
+    },
+    {
+      "code": "2311",
+      "jobType": "Higher education teaching professionals",
+      "relatedJobTitles": [
+        "Higher education teaching professionals"
+      ],
+      "standardGoingRateAnnual": 52600,
+      "standardGoingRateHourly": 26.97
+    },
+    {
+      "code": "2317",
+      "jobType": "Teachers of English as a foreign language",
+      "relatedJobTitles": [
+        "Teachers of English as a Foreign Language"
+      ],
+      "standardGoingRateAnnual": 36200,
+      "standardGoingRateHourly": 18.56
+    },
+    {
+      "code": "2319",
+      "jobType": "Teaching professionals not elsewhere classified",
+      "relatedJobTitles": [
+        "Adult education tutors",
+        "Dance and drama school principals and owners",
+        "Private music and singing teachers",
+        "Private tutors",
+        "Teaching professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "2322",
+      "jobType": "Education managers",
+      "relatedJobTitles": [
+        "Education managers"
+      ],
+      "standardGoingRateAnnual": 43900,
+      "standardGoingRateHourly": 22.51
+    },
+    {
+      "code": "2323",
+      "jobType": "Education advisers and school inspectors",
+      "relatedJobTitles": [
+        "Educational advisers",
+        "School inspectors"
+      ],
+      "standardGoingRateAnnual": 42200,
+      "standardGoingRateHourly": 21.64
+    },
+    {
+      "code": "2324",
+      "jobType": "Early education and childcare services managers",
+      "relatedJobTitles": [
+        "Early education and childcare services managers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "2329",
+      "jobType": "Other educational professionals not elsewhere classified",
+      "relatedJobTitles": [
+        "Bursars",
+        "Educational administrators",
+        "Examiners and markers",
+        "Other educational professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 40600,
+      "standardGoingRateHourly": 20.82
+    },
+    {
+      "code": "2411",
+      "jobType": "Barristers and judges",
+      "relatedJobTitles": [
+        "Barristers and advocates",
+        "Judges",
+        "Barristers and judges not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 59400,
+      "standardGoingRateHourly": 30.46
+    },
+    {
+      "code": "2412",
+      "jobType": "Solicitors and lawyers",
+      "relatedJobTitles": [
+        "Commercial solicitors and lawyers",
+        "Criminal solicitors and lawyers",
+        "Family solicitors and lawyers",
+        "Property solicitors and lawyers",
+        "Solicitors and lawyers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 51600,
+      "standardGoingRateHourly": 26.46
+    },
+    {
+      "code": "2419",
+      "jobType": "Legal professionals not elsewhere classified",
+      "relatedJobTitles": [
+        "Conveyancers",
+        "Litigation executives",
+        "Paralegals",
+        "Patent and trademark attorneys",
+        "Legal professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "2421",
+      "jobType": "Chartered and certified accountants",
+      "relatedJobTitles": [
+        "Auditors (qualified accountant)",
+        "Financial accountants (qualified)",
+        "Forensic accountants",
+        "Fund accountants",
+        "Insolvency practitioners",
+        "Chartered and certified accountants not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 49200,
+      "standardGoingRateHourly": 25.23
+    },
+    {
+      "code": "2422",
+      "jobType": "Finance and investment analysts and advisers",
+      "relatedJobTitles": [
+        "Credit analysts",
+        "Financial advisers and planners",
+        "Financial analysts",
+        "Mortgage advisers",
+        "Finance and investment analysts and advisers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 45800,
+      "standardGoingRateHourly": 23.49
+    },
+    {
+      "code": "2423",
+      "jobType": "Taxation experts",
+      "relatedJobTitles": [
+        "Taxation experts"
+      ],
+      "standardGoingRateAnnual": 48500,
+      "standardGoingRateHourly": 24.87
+    },
+    {
+      "code": "2431",
+      "jobType": "Management consultants and business analysts",
+      "relatedJobTitles": [
+        "Business analysts and consultants",
+        "Management advisers and consultants",
+        "Risk analysts",
+        "Management consultants and business analysts not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 50200,
+      "standardGoingRateHourly": 25.74
+    },
+    {
+      "code": "2432",
+      "jobType": "Marketing and commercial managers",
+      "relatedJobTitles": [
+        "Commercial managers",
+        "Marketing managers",
+        "Marketing and commercial managers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 50100,
+      "standardGoingRateHourly": 25.69
+    },
+    {
+      "code": "2433",
+      "jobType": "Actuaries, economists and statisticians",
+      "relatedJobTitles": [
+        "Actuaries and actuarial analysts",
+        "Economists",
+        "Mathematicians",
+        "Statistical data scientists",
+        "Statisticians",
+        "Actuaries, economists and statisticians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 55100,
+      "standardGoingRateHourly": 28.26
+    },
+    {
+      "code": "2434",
+      "jobType": "Business and related research professionals",
+      "relatedJobTitles": [
+        "Intelligence analysts",
+        "Researchers in media and entertainment",
+        "Business and related research professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 38800,
+      "standardGoingRateHourly": 19.9
+    },
+    {
+      "code": "2435",
+      "jobType": "Professional/chartered company secretaries",
+      "relatedJobTitles": [
+        "Professional/chartered company secretaries"
+      ],
+      "standardGoingRateAnnual": 58200,
+      "standardGoingRateHourly": 29.85
+    },
+    {
+      "code": "2439",
+      "jobType": "Business, research and administrative professionals not elsewhere classified",
+      "relatedJobTitles": [
+        "Policy officers",
+        "Business, research and administrative professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 56600,
+      "standardGoingRateHourly": 29.03
+    },
+    {
+      "code": "2440",
+      "jobType": "Business and financial project management professionals",
+      "relatedJobTitles": [
+        "Business change managers",
+        "Clinical trials coordinators",
+        "Risk managers",
+        "Business and financial project management professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 56500,
+      "standardGoingRateHourly": 28.97
+    },
+    {
+      "code": "2451",
+      "jobType": "Architects",
+      "relatedJobTitles": [
+        "Architects",
+        "Landscape architects and designers"
+      ],
+      "standardGoingRateAnnual": 47600,
+      "standardGoingRateHourly": 24.41
+    },
+    {
+      "code": "2452",
+      "jobType": "Chartered architectural technologists, planning officers and consultants",
+      "relatedJobTitles": [
+        "Chartered architectural technologists",
+        "Town planning officers",
+        "Urban designers",
+        "Chartered architectural technologists, planning officers and consultants not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 35800,
+      "standardGoingRateHourly": 18.36
+    },
+    {
+      "code": "2453",
+      "jobType": "Quantity surveyors",
+      "relatedJobTitles": [
+        "Quantity surveyors"
+      ],
+      "standardGoingRateAnnual": 48600,
+      "standardGoingRateHourly": 24.92
+    },
+    {
+      "code": "2454",
+      "jobType": "Chartered surveyors",
+      "relatedJobTitles": [
+        "Building control surveyors",
+        "Hydrographic surveyors",
+        "Land surveyors",
+        "Property surveyors",
+        "Chartered surveyors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 43800,
+      "standardGoingRateHourly": 22.46
+    },
+    {
+      "code": "2455",
+      "jobType": "Construction project managers and related",
+      "relatedJobTitles": [
+        "Construction project and contract",
+        "professionals not elsewhere classified",
+        "Construction project and contract managers",
+        "Transport planners",
+        "Construction project managers and related professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 44300,
+      "standardGoingRateHourly": 22.72
+    },
+    {
+      "code": "2462",
+      "jobType": "Probation officers",
+      "relatedJobTitles": [
+        "Probation officers"
+      ],
+      "standardGoingRateAnnual": 35700,
+      "standardGoingRateHourly": 18.31
+    },
+    {
+      "code": "2464",
+      "jobType": "Youth work professionals",
+      "relatedJobTitles": [
+        "Youth work professionals"
+      ],
+      "standardGoingRateAnnual": 38000,
+      "standardGoingRateHourly": 19.49
+    },
+    {
+      "code": "2469",
+      "jobType": "Welfare professionals not elsewhere classified",
+      "relatedJobTitles": [
+        "Adoption officers",
+        "Children and family services professionals",
+        "Mediators and restorative practice professionals",
+        "Welfare professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 39700,
+      "standardGoingRateHourly": 20.36
+    },
+    {
+      "code": "2471",
+      "jobType": "Librarians",
+      "relatedJobTitles": [
+        "Librarians"
+      ],
+      "standardGoingRateAnnual": 34800,
+      "standardGoingRateHourly": 17.85
+    },
+    {
+      "code": "2472",
+      "jobType": "Archivists, conservators and curators",
+      "relatedJobTitles": [
+        "Archivists",
+        "Collection managers and curators",
+        "Conservators",
+        "Museum education officers",
+        "Archivists and curators not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "2481",
+      "jobType": "Quality control and planning engineers",
+      "relatedJobTitles": [
+        "Garment technologists",
+        "Planning engineers",
+        "Quality control engineers",
+        "Quality control and planning engineers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 41300,
+      "standardGoingRateHourly": 21.18
+    },
+    {
+      "code": "2482",
+      "jobType": "Quality assurance and regulatory professionals",
+      "relatedJobTitles": [
+        "Compliance and regulatory professionals",
+        "Quality assurance professionals"
+      ],
+      "standardGoingRateAnnual": 48200,
+      "standardGoingRateHourly": 24.72
+    },
+    {
+      "code": "2483",
+      "jobType": "Environmental health professionals",
+      "relatedJobTitles": [
+        "Environmental health professionals"
+      ],
+      "standardGoingRateAnnual": 40900,
+      "standardGoingRateHourly": 20.97
+    },
+    {
+      "code": "2491",
+      "jobType": "Newspaper, periodical and broadcast editors",
+      "relatedJobTitles": [
+        "Newspaper, periodical and broadcast editors"
+      ],
+      "standardGoingRateAnnual": 39600,
+      "standardGoingRateHourly": 20.31
+    },
+    {
+      "code": "2492",
+      "jobType": "Newspaper and periodical broadcast journalists and reporters",
+      "relatedJobTitles": [
+        "Broadcast journalists",
+        "Newspaper journalists and reporters",
+        "Newspaper and periodical journalists and reporters not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 34000,
+      "standardGoingRateHourly": 17.44
+    },
+    {
+      "code": "2493",
+      "jobType": "Public relations professionals",
+      "relatedJobTitles": [
+        "Press officers",
+        "Public relations officers",
+        "Social media managers",
+        "Public relations professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 37000,
+      "standardGoingRateHourly": 18.97
+    },
+    {
+      "code": "2494",
+      "jobType": "Advertising accounts managers and creative directors",
+      "relatedJobTitles": [
+        "Advertising account managers",
+        "Creative directors",
+        "Fundraising managers"
+      ],
+      "standardGoingRateAnnual": 46000,
+      "standardGoingRateHourly": 23.59
+    },
+    {
+      "code": "3111",
+      "jobType": "Laboratory technicians",
+      "relatedJobTitles": [
+        "Biological laboratory technicians",
+        "Chemical laboratory technicians",
+        "Health physics monitors",
+        "Laboratory food technicians",
+        "Medical laboratory technicians",
+        "Laboratory technicians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3112",
+      "jobType": "Electrical and electronics technicians",
+      "relatedJobTitles": [
+        "Avionics technicians",
+        "Electrical and electronics technicians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 39300,
+      "standardGoingRateHourly": 20.15
+    },
+    {
+      "code": "3113",
+      "jobType": "Engineering technicians",
+      "relatedJobTitles": [
+        "Aerospace technicians",
+        "Wind turbine technicians",
+        "Engineering technicians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 42500,
+      "standardGoingRateHourly": 21.79
+    },
+    {
+      "code": "3114",
+      "jobType": "Building and civil engineering technicians",
+      "relatedJobTitles": [
+        "Building technicians",
+        "Civil engineering technicians",
+        "Surveying technicians",
+        "Building and civil engineering technicians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3115",
+      "jobType": "Quality assurance technicians",
+      "relatedJobTitles": [
+        "Quality assurance technicians"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3116",
+      "jobType": "Planning, process and production technicians",
+      "relatedJobTitles": [
+        "Planning, process and production technicians"
+      ],
+      "standardGoingRateAnnual": 34800,
+      "standardGoingRateHourly": 17.85
+    },
+    {
+      "code": "3119",
+      "jobType": "Science, engineering and production technicians not elsewhere classified",
+      "relatedJobTitles": [
+        "School technicians",
+        "Textile consultants",
+        "Science, engineering and production technicians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 34600,
+      "standardGoingRateHourly": 17.74
+    },
+    {
+      "code": "3120",
+      "jobType": "CAD, drawing and architectural technicians",
+      "relatedJobTitles": [
+        "Architectural technicians",
+        "BIM and CAD technicians",
+        "Cartographers",
+        "CAD, drawing and architectural technicians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33800,
+      "standardGoingRateHourly": 17.33
+    },
+    {
+      "code": "3131",
+      "jobType": "IT operations technicians",
+      "relatedJobTitles": [
+        "Games testers",
+        "Network and systems administrators",
+        "Quality assurance testers",
+        "Software technicians",
+        "IT operations technicians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 35200,
+      "standardGoingRateHourly": 18.05
+    },
+    {
+      "code": "3132",
+      "jobType": "IT user support technicians",
+      "relatedJobTitles": [
+        "IT user support technicians"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3133",
+      "jobType": "Database administrators and web content technicians",
+      "relatedJobTitles": [
+        "Database administrators",
+        "Web content technicians",
+        "Database administrators and web content technicians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 34600,
+      "standardGoingRateHourly": 17.74
+    },
+    {
+      "code": "3211",
+      "jobType": "Dispensing opticians",
+      "relatedJobTitles": [
+        "Dispensing opticians"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3212",
+      "jobType": "Pharmaceutical technicians",
+      "relatedJobTitles": [
+        "Pharmaceutical technicians"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3214",
+      "jobType": "Complementary health associate professionals",
+      "relatedJobTitles": [
+        "Alexander technique teachers",
+        "Aromatherapists",
+        "Homeopaths (excludes medically qualified)",
+        "Hospital play specialists",
+        "Hypnotherapists",
+        "Massage therapists",
+        "Reflexologists",
+        "Reiki healers",
+        "Complementary health associate professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": null,
+      "standardGoingRateHourly": null
+    },
+    {
+      "code": "3221",
+      "jobType": "Youth and community workers",
+      "relatedJobTitles": [
+        "Community workers",
+        "Family support workers",
+        "Youth workers (excludes youth work professionals)",
+        "Youth and community workers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3222",
+      "jobType": "Child and early years officers",
+      "relatedJobTitles": [
+        "Child protection officers",
+        "Learning and behaviour mentors",
+        "Welfare and attendance officers",
+        "Child and early years officers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3223",
+      "jobType": "Housing officers",
+      "relatedJobTitles": [
+        "Housing officers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3224",
+      "jobType": "Counsellors",
+      "relatedJobTitles": [
+        "Bereavement counsellors",
+        "Debt advisers",
+        "Life coaches",
+        "Relationship counsellors",
+        "Substance misuse workers",
+        "Counsellors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3229",
+      "jobType": "Welfare and housing associate professionals not elsewhere classified",
+      "relatedJobTitles": [
+        "Advocates (excludes solicitor advocates)",
+        "Celebrants",
+        "Charity workers",
+        "Day care officers",
+        "Health advisers",
+        "Homelessness and housing advice support workers",
+        "Mental health project workers",
+        "Probation service workers",
+        "Student support workers",
+        "Victim support workers",
+        "Welfare and housing associate professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3232",
+      "jobType": "Early education and childcare practitioners",
+      "relatedJobTitles": [
+        "Early education and childcare practitioners"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3240",
+      "jobType": "Veterinary nurses",
+      "relatedJobTitles": [
+        "Veterinary nurses"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3312",
+      "jobType": "Police officers (sergeant and below)",
+      "relatedJobTitles": [
+        "Police constable",
+        "Police sergeant",
+        "Police officers (sergeant and below) not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 46900,
+      "standardGoingRateHourly": 24.05
+    },
+    {
+      "code": "3313",
+      "jobType": "Fire service officers (watch manager and below)",
+      "relatedJobTitles": [
+        "Firefighters",
+        "Fire service crew managers",
+        "Watch managers",
+        "Fire service officers (watch manager and below) not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 42100,
+      "standardGoingRateHourly": 21.59
+    },
+    {
+      "code": "3314",
+      "jobType": "Prison service officers (below principal officer)",
+      "relatedJobTitles": [
+        "Operational support grades",
+        "Prison officers",
+        "Prison service officers (below principal officer) not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 38800,
+      "standardGoingRateHourly": 19.9
+    },
+    {
+      "code": "3319",
+      "jobType": "Protective service associate professionals not elsewhere classified",
+      "relatedJobTitles": [
+        "Coastguard",
+        "Customs and border control officers",
+        "Fraud investigators (excludes benefit fraud)",
+        "Immigration officers",
+        "Private investigators",
+        "Security consultants and managers (excludes cyber security)",
+        "Protective service associate professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 41100,
+      "standardGoingRateHourly": 21.08
+    },
+    {
+      "code": "3411",
+      "jobType": "Artists",
+      "relatedJobTitles": [
+        "Art technicians (excludes education)",
+        "Drawing and painting artists",
+        "Hand drawn animators",
+        "Illustrators (excludes medical and scientific)",
+        "Medical and scientific illustrators",
+        "Picture restorers",
+        "Sculptors",
+        "Tattoo and henna artists",
+        "Artists not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 38200,
+      "standardGoingRateHourly": 19.59
+    },
+    {
+      "code": "3412",
+      "jobType": "Authors, writers and translators",
+      "relatedJobTitles": [
+        "Authors",
+        "Bloggers",
+        "Copywriters",
+        "Literary editors",
+        "Poets",
+        "Script writers",
+        "Technical writers (excludes computing)",
+        "Translators and interpreters",
+        "Authors, writers and translators not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 36100,
+      "standardGoingRateHourly": 18.51
+    },
+    {
+      "code": "3413",
+      "jobType": "Actors, entertainers and presenters",
+      "relatedJobTitles": [
+        "Actors",
+        "Broadcasters, podcasters and presenters",
+        "Children's entertainers",
+        "Comedians",
+        "Disc jockeys",
+        "Magicians",
+        "Models",
+        "Singers",
+        "Social media influencers",
+        "Actors, entertainers and presenters not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3414",
+      "jobType": "Dancers and choreographers",
+      "relatedJobTitles": [
+        "Choreographers",
+        "Dance teachers (excludes educational establishments)",
+        "Dancers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3415",
+      "jobType": "Musicians",
+      "relatedJobTitles": [
+        "Composers and musical arrangers",
+        "Music conductors",
+        "Instrumentalists",
+        "Musicians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 37500,
+      "standardGoingRateHourly": 19.23
+    },
+    {
+      "code": "3416",
+      "jobType": "Arts officers, producers and directors",
+      "relatedJobTitles": [
+        "Art consultants",
+        "Broadcasting and entertainment directors",
+        "Broadcasting and entertainment editors",
+        "Broadcasting and entertainment producers",
+        "Studio and stage managers",
+        "Arts officers, producers and directors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 38100,
+      "standardGoingRateHourly": 19.54
+    },
+    {
+      "code": "3417",
+      "jobType": "Photographers, audio-visual and broadcasting equipment operators",
+      "relatedJobTitles": [
+        "Camera operators and videographers",
+        "Lighting designers",
+        "Photographers",
+        "Sound designers",
+        "Sound engineers",
+        "Theatre technicians (excludes hospitals)",
+        "Photographers, audio-visual and broadcasting equipment operators not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3421",
+      "jobType": "Interior designers",
+      "relatedJobTitles": [
+        "Interior designers"
+      ],
+      "standardGoingRateAnnual": 35200,
+      "standardGoingRateHourly": 18.05
+    },
+    {
+      "code": "3422",
+      "jobType": "Clothing, fashion and accessories designers",
+      "relatedJobTitles": [
+        "Clothing and fashion consultants",
+        "Clothing and fashion designers",
+        "Footwear designers",
+        "Jewellery designers",
+        "Textile designers",
+        "Clothing, fashion and accessories designers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 36500,
+      "standardGoingRateHourly": 18.72
+    },
+    {
+      "code": "3429",
+      "jobType": "Design occupations not elsewhere classified",
+      "relatedJobTitles": [
+        "Industrial and product designers",
+        "Packaging designers",
+        "Performance make-up artists",
+        "Set designers",
+        "Visual merchandising managers and designers",
+        "Design occupations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 39300,
+      "standardGoingRateHourly": 20.15
+    },
+    {
+      "code": "3433",
+      "jobType": "Fitness and wellbeing instructors",
+      "relatedJobTitles": [
+        "Group fitness instructors and personal trainers",
+        "Pilates teachers",
+        "Yoga teachers",
+        "Fitness and wellbeing instructors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3511",
+      "jobType": "Aircraft pilots and air traffic controllers",
+      "relatedJobTitles": [
+        "Airline pilots",
+        "Air traffic controllers",
+        "Flying instructors",
+        "Helicopter pilots",
+        "Aircraft pilots and air traffic controllers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 80400,
+      "standardGoingRateHourly": 41.23
+    },
+    {
+      "code": "3512",
+      "jobType": "Ship and hovercraft officers",
+      "relatedJobTitles": [
+        "Ship and hovercraft captains and deck officers (excludes armed forces and fishing)",
+        "Marine engineers",
+        "Ship and hovercraft officers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 58300,
+      "standardGoingRateHourly": 29.9
+    },
+    {
+      "code": "3520",
+      "jobType": "Legal associate professionals",
+      "relatedJobTitles": [
+        "Conveyancing professionals",
+        "Cost lawyers",
+        "Barrister's and judge's clerks",
+        "Litigation officers",
+        "Probate managers",
+        "Will writers",
+        "Legal associate professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3531",
+      "jobType": "Brokers",
+      "relatedJobTitles": [
+        "Commodity brokers and traders",
+        "Insurance and mortgage brokers",
+        "Shipbrokers",
+        "Stockbrokers",
+        "Brokers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 52400,
+      "standardGoingRateHourly": 26.87
+    },
+    {
+      "code": "3532",
+      "jobType": "Insurance underwriters",
+      "relatedJobTitles": [
+        "Insurance underwriters"
+      ],
+      "standardGoingRateAnnual": 36500,
+      "standardGoingRateHourly": 18.72
+    },
+    {
+      "code": "3533",
+      "jobType": "Financial and accounting technicians",
+      "relatedJobTitles": [
+        "Accounting technicians",
+        "Financial control technicians",
+        "Financial and accounting technicians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 48700,
+      "standardGoingRateHourly": 24.97
+    },
+    {
+      "code": "3534",
+      "jobType": "Financial accounts managers",
+      "relatedJobTitles": [
+        "Claims managers",
+        "Credit managers",
+        "Investment managers",
+        "Relationship managers",
+        "Financial accounts managers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 44700,
+      "standardGoingRateHourly": 22.92
+    },
+    {
+      "code": "3541",
+      "jobType": "Estimators, valuers and assessors",
+      "relatedJobTitles": [
+        "Energy advisers and assessors",
+        "Estimators",
+        "Loss adjusters",
+        "Valuers",
+        "Vehicle damage assessors",
+        "Estimators, valuers and assessors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 35300,
+      "standardGoingRateHourly": 18.1
+    },
+    {
+      "code": "3542",
+      "jobType": "Importers and exporters",
+      "relatedJobTitles": [
+        "Importers and exporters"
+      ],
+      "standardGoingRateAnnual": 35700,
+      "standardGoingRateHourly": 18.31
+    },
+    {
+      "code": "3543",
+      "jobType": "Project support officers",
+      "relatedJobTitles": [
+        "Project support officers"
+      ],
+      "standardGoingRateAnnual": 33900,
+      "standardGoingRateHourly": 17.38
+    },
+    {
+      "code": "3544",
+      "jobType": "Data analysts",
+      "relatedJobTitles": [
+        "Data analysts"
+      ],
+      "standardGoingRateAnnual": 34900,
+      "standardGoingRateHourly": 17.9
+    },
+    {
+      "code": "3549",
+      "jobType": "Business associate professionals not elsewhere classified",
+      "relatedJobTitles": [
+        "Business support officers",
+        "Business systems analysts",
+        "Contract administrators",
+        "Clinical coders",
+        "Clinical trials administrators",
+        "Research coordinators",
+        "Business associate professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3551",
+      "jobType": "Buyers and procurement officers",
+      "relatedJobTitles": [
+        "Buyers and procurement officers"
+      ],
+      "standardGoingRateAnnual": 35500,
+      "standardGoingRateHourly": 18.21
+    },
+    {
+      "code": "3552",
+      "jobType": "Business sales executives",
+      "relatedJobTitles": [
+        "Business sales executives"
+      ],
+      "standardGoingRateAnnual": 36700,
+      "standardGoingRateHourly": 18.82
+    },
+    {
+      "code": "3553",
+      "jobType": "Merchandisers",
+      "relatedJobTitles": [
+        "Merchandisers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3554",
+      "jobType": "Advertising and marketing associate professionals",
+      "relatedJobTitles": [
+        "Advertising and marketing executives",
+        "Fundraisers",
+        "Market researchers (excludes interviewers)",
+        "Marketing associate professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3555",
+      "jobType": "Estate agents and auctioneers",
+      "relatedJobTitles": [
+        "Estate agents",
+        "Land and property auctioneers and valuers",
+        "Letting agents",
+        "Estate agents and auctioneers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3556",
+      "jobType": "Sales accounts and business development managers",
+      "relatedJobTitles": [
+        "Brand managers",
+        "Business development managers",
+        "Sales account managers",
+        "Sales accounts and business development managers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 55200,
+      "standardGoingRateHourly": 28.31
+    },
+    {
+      "code": "3557",
+      "jobType": "Events managers and organisers",
+      "relatedJobTitles": [
+        "Conference managers and organisers",
+        "Exhibition managers and organisers",
+        "Festival managers and organisers",
+        "Hospitality managers",
+        "Wedding planners and organisers",
+        "Event managers and organisers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3560",
+      "jobType": "Public services associate professionals",
+      "relatedJobTitles": [
+        "Electoral services officers",
+        "Health service administrators",
+        "Job Centre officers",
+        "Waste management officers",
+        "Public services associate professionals not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 39500,
+      "standardGoingRateHourly": 20.26
+    },
+    {
+      "code": "3571",
+      "jobType": "Human resources and industrial relations officers",
+      "relatedJobTitles": [
+        "Equality and diversity officers",
+        "Human resources advisers",
+        "Recruitment consultants",
+        "Human resources and industrial relations officers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3572",
+      "jobType": "Careers advisers and vocational guidance specialists",
+      "relatedJobTitles": [
+        "Careers advisers and coaches",
+        "Work placement officers",
+        "Careers advisers and vocational guidance specialists not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "3573",
+      "jobType": "Information technology trainers",
+      "relatedJobTitles": [
+        "Information technology trainers"
+      ],
+      "standardGoingRateAnnual": 40000,
+      "standardGoingRateHourly": 20.51
+    },
+    {
+      "code": "3574",
+      "jobType": "Other vocational and industrial trainers",
+      "relatedJobTitles": [
+        "Business coaches",
+        "Retail and store trainers",
+        "Training assessors",
+        "Other vocational and industrial trainers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 34500,
+      "standardGoingRateHourly": 17.69
+    },
+    {
+      "code": "3581",
+      "jobType": "Inspectors of standards and regulations",
+      "relatedJobTitles": [
+        "Animal health inspectors and officers",
+        "Building control officers",
+        "Driving examiners",
+        "Health and safety inspectors",
+        "Housing and planning inspectors",
+        "Licensing officers",
+        "Meat hygiene inspectors",
+        "Nuclear safety inspectors",
+        "Trading standards officers",
+        "Traffic and vehicle examiners and inspectors",
+        "Inspectors of standards and regulations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 34400,
+      "standardGoingRateHourly": 17.64
+    },
+    {
+      "code": "3582",
+      "jobType": "Health and safety managers and officers",
+      "relatedJobTitles": [
+        "Asbestos safety officers",
+        "Fire safety managers and officers",
+        "Occupational health and safety managers and officers",
+        "Road traffic and transport safety officers",
+        "Occupational hygienists",
+        "Health and safety managers and officers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 42500,
+      "standardGoingRateHourly": 21.79
+    },
+    {
+      "code": "4111",
+      "jobType": "National government administrative occupations",
+      "relatedJobTitles": [
+        "National government benefits officers",
+        "National government revenue officers",
+        "Passport officers",
+        "National government administrative occupations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4112",
+      "jobType": "Local government administrative occupations",
+      "relatedJobTitles": [
+        "Local government benefits officers",
+        "Local government housing assistants",
+        "Local government revenue officers",
+        "Parish clerks",
+        "Local government administrative occupations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4113",
+      "jobType": "Officers of non-governmental organisations",
+      "relatedJobTitles": [
+        "Charity administrators",
+        "Clerks to governors",
+        "Union officials",
+        "Officers of non-governmental organisations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4121",
+      "jobType": "Credit controllers",
+      "relatedJobTitles": [
+        "Credit controllers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4122",
+      "jobType": "Book-keepers, payroll managers and wages clerks",
+      "relatedJobTitles": [
+        "Accounting clerks and bookkeepers",
+        "Payroll officers and wages clerks",
+        "Bookkeepers, payroll managers and wage clerks not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4124",
+      "jobType": "Finance officers",
+      "relatedJobTitles": [
+        "Finance officers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4129",
+      "jobType": "Financial administrative occupations not elsewhere classified",
+      "relatedJobTitles": [
+        "Box office assistants",
+        "Grants officers",
+        "Mortgage administrators",
+        "Revenue assistants (excludes National and Local government revenue occupations)",
+        "Treasury assistants",
+        "Finance administrative occupations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4132",
+      "jobType": "Pensions and insurance clerks and assistants",
+      "relatedJobTitles": [
+        "Claims handlers",
+        "Insurance administrators",
+        "Pensions administrators",
+        "Pensions and insurance clerks and assistants not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4134",
+      "jobType": "Transport and distribution clerks and assistants",
+      "relatedJobTitles": [
+        "Transport and distribution clerks and assistants"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4141",
+      "jobType": "Office managers",
+      "relatedJobTitles": [
+        "Office managers"
+      ],
+      "standardGoingRateAnnual": 37400,
+      "standardGoingRateHourly": 19.18
+    },
+    {
+      "code": "4143",
+      "jobType": "Customer service managers",
+      "relatedJobTitles": [
+        "Call centre managers",
+        "Customer service managers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 35200,
+      "standardGoingRateHourly": 18.05
+    },
+    {
+      "code": "4151",
+      "jobType": "Sales administrators",
+      "relatedJobTitles": [
+        "Sales administrators"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4159",
+      "jobType": "Other administrative occupations not elsewhere classified",
+      "relatedJobTitles": [
+        "Business administrators",
+        "Church administrators",
+        "Facilities coordinators",
+        "Proofreaders",
+        "Property administrators",
+        "Warranty administrators",
+        "Other administrative occupations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4214",
+      "jobType": "Company secretaries and administrators",
+      "relatedJobTitles": [
+        "Company secretaries and administrators"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "4215",
+      "jobType": "Personal assistants and other secretaries",
+      "relatedJobTitles": [
+        "Farm secretaries",
+        "Personal assistants (excludes care workers)",
+        "Personal assistants and other secretaries not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5111",
+      "jobType": "Farmers",
+      "relatedJobTitles": [
+        "Agricultural contractors",
+        "Aquaculture farmers",
+        "Arable farmers",
+        "Dairy farmers",
+        "Livestock farmers",
+        "Poultry farmers",
+        "Farmers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 34100,
+      "standardGoingRateHourly": 17.49
+    },
+    {
+      "code": "5112",
+      "jobType": "Horticultural trades",
+      "relatedJobTitles": [
+        "Horticultural trades"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5113",
+      "jobType": "Gardeners and landscape gardeners",
+      "relatedJobTitles": [
+        "Garden designers",
+        "Gardeners (excludes horticultural/market gardening)",
+        "Green roof installers",
+        "Landscape gardeners",
+        "Gardeners and landscape gardeners not elsewhere classified",
+        "Traffic and vehicle examiners and inspectors",
+        "Inspectors of standards and regulations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5114",
+      "jobType": "Groundsmen and greenkeepers",
+      "relatedJobTitles": [
+        "Groundsmen and greenkeepers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5119",
+      "jobType": "Agricultural and fishing trades not elsewhere classified",
+      "relatedJobTitles": [
+        "Arborists",
+        "Beekeepers",
+        "Countryside and park officers and rangers",
+        "Falconers",
+        "Fish and river keepers",
+        "Fishers",
+        "Gamekeepers",
+        "Agricultural and fishing trades not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5211",
+      "jobType": "Sheet metal workers",
+      "relatedJobTitles": [
+        "Metal fabricators and finishers",
+        "Panel beaters (excludes vehicles)",
+        "Whitesmiths",
+        "Sheet metal workers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5212",
+      "jobType": "Metal plate workers, smiths, moulders and related occupations",
+      "relatedJobTitles": [
+        "Die casters",
+        "Farriers",
+        "Moulders, mould makers and core makers",
+        "Smiths",
+        "Metal plate workers, smiths, moulders and related occupations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 36700,
+      "standardGoingRateHourly": 18.82
+    },
+    {
+      "code": "5213",
+      "jobType": "Welding trades",
+      "relatedJobTitles": [
+        "Braziers and solderers",
+        "Pipe welders",
+        "Plate welders",
+        "Welding trades not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 34900,
+      "standardGoingRateHourly": 17.9
+    },
+    {
+      "code": "5214",
+      "jobType": "Pipe fitters",
+      "relatedJobTitles": [
+        "Pipe fitters"
+      ],
+      "standardGoingRateAnnual": 46000,
+      "standardGoingRateHourly": 23.59
+    },
+    {
+      "code": "5221",
+      "jobType": "Metal machining setters and setter-operators",
+      "relatedJobTitles": [
+        "Computer numerical control (CNC) machine setters and setter-operators",
+        "Metal machining setters and setter-operators not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 34600,
+      "standardGoingRateHourly": 17.74
+    },
+    {
+      "code": "5222",
+      "jobType": "Tool makers, tool fitters and markers-out",
+      "relatedJobTitles": [
+        "Tool fitters",
+        "Tool makers",
+        "Tool makers, tool fitters and markers-out not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 38400,
+      "standardGoingRateHourly": 19.69
+    },
+    {
+      "code": "5223",
+      "jobType": "Metal working production and maintenance fitters",
+      "relatedJobTitles": [
+        "Automation maintenance technicians",
+        "Bicycle mechanics",
+        "Catering equipment technicians",
+        "Door fitters and makers",
+        "Gunsmiths",
+        "Heavy plant maintenance technicians",
+        "Hydraulic technicians",
+        "Lift technicians",
+        "Locksmiths",
+        "Pump technicians",
+        "Textile machine technicians",
+        "Turbine fitters",
+        "Metal working production and maintenance fitters not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 39300,
+      "standardGoingRateHourly": 20.15
+    },
+    {
+      "code": "5224",
+      "jobType": "Precision instrument makers and repairers",
+      "relatedJobTitles": [
+        "Calibration and precision instrument technicians",
+        "Camera and photographic equipment technicians",
+        "Horologists, watch makers and repairers",
+        "Optical technicians",
+        "Precision instrument makers and repairers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5225",
+      "jobType": "Air-conditioning and refrigeration installers and repairers",
+      "relatedJobTitles": [
+        "Air-conditioning and refrigeration installers and repairers"
+      ],
+      "standardGoingRateAnnual": 41100,
+      "standardGoingRateHourly": 21.08
+    },
+    {
+      "code": "5231",
+      "jobType": "Vehicle technicians, mechanics and electricians",
+      "relatedJobTitles": [
+        "Auto electricians",
+        "Car/light vehicle technicians",
+        "Heavy and large vehicle technicians",
+        "Motorcycle technicians",
+        "Motorsport technicians",
+        "MOT testers",
+        "Roadside assistance technicians",
+        "Vehicle technicians, mechanics and electricians not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 35500,
+      "standardGoingRateHourly": 18.21
+    },
+    {
+      "code": "5232",
+      "jobType": "Vehicle body builders and repairers",
+      "relatedJobTitles": [
+        "Vehicle body builders and repairers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5233",
+      "jobType": "Vehicle paint technicians",
+      "relatedJobTitles": [
+        "Vehicle paint technicians"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5234",
+      "jobType": "Aircraft maintenance and related trades",
+      "relatedJobTitles": [
+        "Aircraft maintenance and related trades"
+      ],
+      "standardGoingRateAnnual": 45000,
+      "standardGoingRateHourly": 23.08
+    },
+    {
+      "code": "5235",
+      "jobType": "Boat and ship builders and repairers",
+      "relatedJobTitles": [
+        "Boat and ship builders and repairers"
+      ],
+      "standardGoingRateAnnual": 33700,
+      "standardGoingRateHourly": 17.28
+    },
+    {
+      "code": "5236",
+      "jobType": "Rail and rolling stock builders and repairers",
+      "relatedJobTitles": [
+        "Rail and rolling stock builders and repairers"
+      ],
+      "standardGoingRateAnnual": 57000,
+      "standardGoingRateHourly": 29.23
+    },
+    {
+      "code": "5241",
+      "jobType": "Electricians and electrical fitters",
+      "relatedJobTitles": [
+        "Electric vehicle charging point installers",
+        "Electro-mechanical technicians",
+        "Installation and maintenance electricians",
+        "Smart energy experts",
+        "Solar panel installers",
+        "Street lighting electrician",
+        "Electricians and electrical fitters not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 38800,
+      "standardGoingRateHourly": 19.9
+    },
+    {
+      "code": "5242",
+      "jobType": "Telecoms and related network installers and repairers",
+      "relatedJobTitles": [
+        "Telecoms and related network installers and repairers"
+      ],
+      "standardGoingRateAnnual": 36700,
+      "standardGoingRateHourly": 18.82
+    },
+    {
+      "code": "5243",
+      "jobType": "Tv, video and audio servicers and repairers",
+      "relatedJobTitles": [
+        "TV, video and audio servicers and repairers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5244",
+      "jobType": "Computer system and equipment installers and servicers",
+      "relatedJobTitles": [
+        "Computer system and equipment installers and servicers"
+      ],
+      "standardGoingRateAnnual": 35100,
+      "standardGoingRateHourly": 18.0
+    },
+    {
+      "code": "5245",
+      "jobType": "Security system installers and repairers",
+      "relatedJobTitles": [
+        "Security system installers and repairers"
+      ],
+      "standardGoingRateAnnual": 36300,
+      "standardGoingRateHourly": 18.62
+    },
+    {
+      "code": "5246",
+      "jobType": "Electrical service and maintenance mechanics and repairers",
+      "relatedJobTitles": [
+        "Electrical service and maintenance mechanics and repairers"
+      ],
+      "standardGoingRateAnnual": 39700,
+      "standardGoingRateHourly": 20.36
+    },
+    {
+      "code": "5249",
+      "jobType": "Electrical and electronic trades not elsewhere classified",
+      "relatedJobTitles": [
+        "Broadcast and communications technicians",
+        "Overhead line workers",
+        "Signal workers",
+        "Electrical and electronic trades not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 45800,
+      "standardGoingRateHourly": 23.49
+    },
+    {
+      "code": "5250",
+      "jobType": "Skilled metal, electrical and electronic trades supervisors",
+      "relatedJobTitles": [
+        "Skilled metal, electrical and electronic trades supervisors"
+      ],
+      "standardGoingRateAnnual": 42400,
+      "standardGoingRateHourly": 21.74
+    },
+    {
+      "code": "5311",
+      "jobType": "Steel erectors",
+      "relatedJobTitles": [
+        "Steel erectors"
+      ],
+      "standardGoingRateAnnual": 35000,
+      "standardGoingRateHourly": 17.95
+    },
+    {
+      "code": "5312",
+      "jobType": "Stonemasons and related trades",
+      "relatedJobTitles": [
+        "Dry stone wallers",
+        "Monumental masons",
+        "Stonemasons",
+        "Stonemasons and related trades not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5313",
+      "jobType": "Bricklayers",
+      "relatedJobTitles": [
+        "Bricklayers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5314",
+      "jobType": "Roofers, roof tilers and slaters",
+      "relatedJobTitles": [
+        "Felt and flat roofers",
+        "Sheeters and cladders",
+        "Thatchers",
+        "Tilers and slaters",
+        "Roofers, roof tilers and slaters not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5315",
+      "jobType": "Plumbers and heating and ventilating installers and repairers",
+      "relatedJobTitles": [
+        "Plumbers and heating and ventilation installers and repairers"
+      ],
+      "standardGoingRateAnnual": 38100,
+      "standardGoingRateHourly": 19.54
+    },
+    {
+      "code": "5316",
+      "jobType": "Carpenters and joiners",
+      "relatedJobTitles": [
+        "Bedroom and kitchen fitters",
+        "Carpenters",
+        "Joiners",
+        "Carpenters and joiners not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5317",
+      "jobType": "Glaziers, window fabricators and fitters",
+      "relatedJobTitles": [
+        "Glass cutters and glaziers",
+        "Window fabricators",
+        "Window fitters",
+        "Glaziers, window fabricators and fitters not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5319",
+      "jobType": "Construction and building trades not elsewhere classified",
+      "relatedJobTitles": [
+        "Builders",
+        "Divers",
+        "Fence erectors",
+        "Industrial climbers",
+        "Remotely Operated Vehicle (ROV) operators",
+        "Steel fixers and underpinners",
+        "Construction and building trades not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5321",
+      "jobType": "Plasterers",
+      "relatedJobTitles": [
+        "Dry liners",
+        "Plasterers (wall and decorative)"
+      ],
+      "standardGoingRateAnnual": 34200,
+      "standardGoingRateHourly": 17.54
+    },
+    {
+      "code": "5322",
+      "jobType": "Floorers and wall tilers",
+      "relatedJobTitles": [
+        "Carpet and linoleum fitters",
+        "Floor layers",
+        "Tilers",
+        "Floorers and wall tilers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5323",
+      "jobType": "Painters and decorators",
+      "relatedJobTitles": [
+        "Painters and decorators"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5330",
+      "jobType": "Construction and building trades supervisors",
+      "relatedJobTitles": [
+        "Carpenter and joinery supervisors",
+        "Demolition supervisors",
+        "Painting supervisors",
+        "Plumbing supervisors",
+        "Road construction supervisors",
+        "Roofing supervisors",
+        "Scaffolding supervisors",
+        "Construction and building trade supervisors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 41800,
+      "standardGoingRateHourly": 21.44
+    },
+    {
+      "code": "5411",
+      "jobType": "Upholsterers",
+      "relatedJobTitles": [
+        "Curtain makers",
+        "Trimmers and upholsterers",
+        "Upholsterers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5412",
+      "jobType": "Footwear and leather working trades",
+      "relatedJobTitles": [
+        "Footwear makers and repairers",
+        "Leather workers (excludes leather dressing)",
+        "Footwear and leather working trades not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5413",
+      "jobType": "Tailors and dressmakers",
+      "relatedJobTitles": [
+        "Costume makers",
+        "Dressmakers",
+        "Fitters and alterations assistants",
+        "Kilt makers",
+        "Milliners (excludes wholesale, retail trade)",
+        "Tailors",
+        "Tailors and dressmakers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5419",
+      "jobType": "Textiles, garments and related trades not elsewhere classified",
+      "relatedJobTitles": [
+        "Embroiderers and sewers",
+        "Knitters",
+        "Sail makers",
+        "Weavers (excludes basket, wig and wire goods mfr)",
+        "Textiles, garments and related trades not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5421",
+      "jobType": "Pre-press technicians",
+      "relatedJobTitles": [
+        "Pre-press technicians"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5422",
+      "jobType": "Printers",
+      "relatedJobTitles": [
+        "Digital printers",
+        "Flexographic printers",
+        "Lithographic printers",
+        "Screen printers",
+        "Printers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5423",
+      "jobType": "Print finishing and binding workers",
+      "relatedJobTitles": [
+        "Print finishing and binding workers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5431",
+      "jobType": "Butchers",
+      "relatedJobTitles": [
+        "Butchers",
+        "Slaughterers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5432",
+      "jobType": "Bakers and flour confectioners",
+      "relatedJobTitles": [
+        "Bakers (excludes food process bakery workers and textile manufacturing)",
+        "Cake decorators and designers",
+        "Bakers and flour confectioners not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5433",
+      "jobType": "Fishmongers and poultry dressers",
+      "relatedJobTitles": [
+        "Fishmongers",
+        "Poultry dressers",
+        "Fishmongers and poultry dressers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5434",
+      "jobType": "Chefs",
+      "relatedJobTitles": [
+        "Chefs"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5436",
+      "jobType": "Catering and bar managers",
+      "relatedJobTitles": [
+        "Catering and bar managers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5441",
+      "jobType": "Glass and ceramics makers, decorators and finishers",
+      "relatedJobTitles": [
+        "Ceramic makers, decorators and finishers",
+        "Ceramic potters",
+        "Glass blowers",
+        "Glass makers, decorators and finishers",
+        "Optical glass makers",
+        "Glass and ceramics makers, decorators and finishers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5442",
+      "jobType": "Furniture makers and other craft woodworkers",
+      "relatedJobTitles": [
+        "Cabinet makers (excludes metal)",
+        "Furniture makers and fitters",
+        "Furniture restorers",
+        "Furniture sprayers and finishers",
+        "Picture framers",
+        "Shed makers",
+        "Furniture makers and other craft woodworkers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5443",
+      "jobType": "Florists",
+      "relatedJobTitles": [
+        "Florists"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "5449",
+      "jobType": "Other skilled trades not elsewhere classified",
+      "relatedJobTitles": [
+        "Basket makers (excludes wire goods mfr)",
+        "Candle makers",
+        "Goldsmiths, silversmiths, jewellers and precious stone workers",
+        "Hairpiece and wig makers",
+        "Metal engravers",
+        "Craft model makers",
+        "Musical instrument repairers, makers and tuners",
+        "Sign makers and writers",
+        "Toy makers and repairers",
+        "Other skilled trades not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "6111",
+      "jobType": "Early education and childcare assistants",
+      "relatedJobTitles": [
+        "Early education and childcare assistants"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "6114",
+      "jobType": "Childminders",
+      "relatedJobTitles": [
+        "Childminders"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "6116",
+      "jobType": "Nannies and au pairs",
+      "relatedJobTitles": [
+        "Au pairs",
+        "Nannies"
+      ],
+      "standardGoingRateAnnual": null,
+      "standardGoingRateHourly": null
+    },
+    {
+      "code": "6117",
+      "jobType": "Playworkers",
+      "relatedJobTitles": [
+        "Playworkers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "6129",
+      "jobType": "Animal care services occupations not elsewhere classified",
+      "relatedJobTitles": [
+        "Animal boarding assistants",
+        "Animal breeders",
+        "Animal groomers",
+        "Animal trainers (excludes performing animals)",
+        "Animal walkers",
+        "Animal welfare workers",
+        "Stable workers",
+        "Veterinary assistants",
+        "Zookeepers",
+        "Animal care services occupations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "6134",
+      "jobType": "Houseparents and residential wardens",
+      "relatedJobTitles": [
+        "Foster carers",
+        "Residential childcare practitioners",
+        "School matrons and houseparents",
+        "Residential housing wardens",
+        "Houseparents and residential wardens not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "6135",
+      "jobType": "Care workers and home carers",
+      "relatedJobTitles": [
+        "Community support workers",
+        "Home care workers",
+        "Residential care workers",
+        "Care workers and home carers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "6136",
+      "jobType": "Senior care workers",
+      "relatedJobTitles": [
+        "Senior community support workers",
+        "Senior home care workers",
+        "Senior residential care workers",
+        "Senior care workers not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "6213",
+      "jobType": "Air travel assistants",
+      "relatedJobTitles": [
+        "Flight attendants",
+        "Passenger services assistants",
+        "Air travel assistants not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "6214",
+      "jobType": "Rail travel assistants",
+      "relatedJobTitles": [
+        "Railway station assistants",
+        "Revenue protection officers",
+        "Train conductors and guards",
+        "Rail travel assistants not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 41300,
+      "standardGoingRateHourly": 21.18
+    },
+    {
+      "code": "6232",
+      "jobType": "Caretakers",
+      "relatedJobTitles": [
+        "Playworkers"
+      ],
+      "standardGoingRateAnnual": null,
+      "standardGoingRateHourly": null
+    },
+    {
+      "code": "6250",
+      "jobType": "Bed and breakfast and guest house owners and proprietors",
+      "relatedJobTitles": [
+        "Animal boarding assistants",
+        "Animal breeders",
+        "Animal groomers",
+        "Animal trainers (excludes performing animals)",
+        "Animal walkers",
+        "Animal welfare workers",
+        "Stable workers",
+        "Veterinary assistants",
+        "Zookeepers",
+        "Animal care services occupations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": null,
+      "standardGoingRateHourly": null
+    },
+    {
+      "code": "6311",
+      "jobType": "Police community support officers",
+      "relatedJobTitles": [
+        "Foster carers",
+        "Residential childcare practitioners",
+        "School matrons and houseparents",
+        "Residential housing wardens",
+        "Houseparents and residential wardens not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "7115",
+      "jobType": "Vehicle and parts salespersons and advisers",
+      "relatedJobTitles": [
+        "Vehicle parts advisers",
+        "Vehicle sales executives"
+      ],
+      "standardGoingRateAnnual": null,
+      "standardGoingRateHourly": null
+    },
+    {
+      "code": "7124",
+      "jobType": "Market and street traders and assistants",
+      "relatedJobTitles": [
+        "Market and street traders and assistants"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "7125",
+      "jobType": "Visual merchandisers and related occupations",
+      "relatedJobTitles": [
+        "Fashion stylists",
+        "Visual merchandisers and window dressers",
+        "Visual merchandisers and related occupations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": null,
+      "standardGoingRateHourly": null
+    },
+    {
+      "code": "7129",
+      "jobType": "Sales related occupations not elsewhere classified",
+      "relatedJobTitles": [
+        "Demonstrators and product promoters",
+        "Hire desk controllers",
+        "Sales energy consultants",
+        "Sales related occupations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": null,
+      "standardGoingRateHourly": null
+    },
+    {
+      "code": "7131",
+      "jobType": "Shopkeepers and owners - retail and wholesale",
+      "relatedJobTitles": [
+        "Antique dealers",
+        "Art dealers",
+        "Car traders",
+        "Newsagents",
+        "Retail jewellers",
+        "Wholesalers",
+        "Wine merchants",
+        "Shopkeepers and owners - retail and wholesale not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33700,
+      "standardGoingRateHourly": 17.28
+    },
+    {
+      "code": "7132",
+      "jobType": "Sales supervisors - retail and wholesale",
+      "relatedJobTitles": [
+        "Sales supervisors - retail and wholesale"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "7214",
+      "jobType": "Market research interviewers",
+      "relatedJobTitles": [
+        "Field and telephone interviewers",
+        "Mystery shoppers",
+        "Political canvassers",
+        "Traffic enumerators"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "7220",
+      "jobType": "Customer service supervisors",
+      "relatedJobTitles": [
+        "Customer service supervisors"
+      ],
+      "standardGoingRateAnnual": 34200,
+      "standardGoingRateHourly": 17.54
+    },
+    {
+      "code": "8113",
+      "jobType": "Chemical and related process operatives",
+      "relatedJobTitles": [
+        "Chemical and related process operatives"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "8115",
+      "jobType": "Metal making and treating process operatives",
+      "relatedJobTitles": [
+        "Galvanisers and platers",
+        "Metal sprayers and powder coaters",
+        "Metal making and treating process operatives not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": null,
+      "standardGoingRateHourly": null
+    },
+    {
+      "code": "8133",
+      "jobType": "Energy plant operatives",
+      "relatedJobTitles": [
+        "Boiler operatives",
+        "Compressor operatives",
+        "Nuclear decommissioning operatives",
+        "Energy plant operatives not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 41500,
+      "standardGoingRateHourly": 21.28
+    },
+    {
+      "code": "8134",
+      "jobType": "Water and sewerage plant operatives",
+      "relatedJobTitles": [
+        "Water and sewerage distribution operatives",
+        "Water treatment operatives",
+        "Water and sewerage plant operatives not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 38000,
+      "standardGoingRateHourly": 19.49
+    },
+    {
+      "code": "8143",
+      "jobType": "Routine inspectors and testers",
+      "relatedJobTitles": [
+        "Routine inspectors and testers"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "8215",
+      "jobType": "Driving instructors",
+      "relatedJobTitles": [
+        "Cycling instructors",
+        "Forklift instructors",
+        "Heavy and large vehicle driving instructors",
+        "Motorcycle instructors",
+        "Passenger carrying vehicle (PCV) and car driving instructors",
+        "Driving instructors not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 39500,
+      "standardGoingRateHourly": 20.26
+    },
+    {
+      "code": "8232",
+      "jobType": "Marine and waterways transport operatives",
+      "relatedJobTitles": [
+        "Marine and waterways transport operatives"
+      ],
+      "standardGoingRateAnnual": 38300,
+      "standardGoingRateHourly": 19.64
+    },
+    {
+      "code": "9119",
+      "jobType": "Fishing and other elementary agriculture occupations not elsewhere classified",
+      "relatedJobTitles": [
+        "Vent chick sexer",
+        "Deckhand on large fishing vessel (9 metres and above)"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "9249",
+      "jobType": "Elementary sales occupations not elsewhere classified",
+      "relatedJobTitles": [
+        "Retail order pickers",
+        "Trolley collectors",
+        "Elementary sales occupations not elsewhere classified"
+      ],
+      "standardGoingRateAnnual": 33400,
+      "standardGoingRateHourly": 17.13
+    },
+    {
+      "code": "9252",
+      "jobType": "Warehouse operatives",
+      "relatedJobTitles": [
+        "Warehouse operatives"
+      ],
+      "standardGoingRateAnnual": null,
+      "standardGoingRateHourly": null
+    }
+  ]
+}

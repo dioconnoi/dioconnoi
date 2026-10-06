@@ -1,0 +1,12 @@
+{
+  "name": "visa-sponsorship-checker-e2e",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Playwright end-to-end check: loads the built unpacked extension in real Chromium and exercises Select-from-Page + a real backend check.",
+  "scripts": {
+    "test": "node run-e2e.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  }
+}
